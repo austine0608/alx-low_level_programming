@@ -23,7 +23,7 @@ int main(void)
         }
         else
         {
-                print("%d is nagative\n", n);
+                printf("%d is nagative\n", n);
         }
         return (0);
 }
